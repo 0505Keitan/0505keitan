@@ -4,10 +4,9 @@ Hi!
 
 I'm WEB ENGINEER / High School Student
 
-![](https://img.shields.io/badge/Username-0505Keitan-brightgreen.svg?style=flat-square)
-![](https://img.shields.io/badge/Age-17-blueviolet.svg?style=flat-square)
-![](https://img.shields.io/badge/Grade-12-blue.svg?style=flat-square)
-![](https://img.shields.io/badge/Place-Tokyo-orange.svg?style=flat-square)
+![0505Keitan's github stats](https://github-readme-stats.vercel.app/api?username=0505Keitan&count_private=true&show_icons=true&theme=merko)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0505Keitan&layout=compact&theme=merko)
 
 # SNS
 ![GitHub followers](https://img.shields.io/github/followers/0505Keitan?style=social)
