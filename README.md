@@ -2,7 +2,7 @@
 
 Hi!
 
-I'm WEB ENGINEER / High School Student
+I'm WEB ENGINEER / University Student
 
 ![0505Keitan's github stats](https://github-readme-stats.vercel.app/api?username=0505Keitan&count_private=true&show_icons=true&theme=merko)
 
